@@ -18,8 +18,8 @@ This project is a Progressive Web Application that has the ability to be install
 
 ## Usage 
 This application will allow users to view, add, edit, and delete categories, products, and tags.<br>
-Please view live Git Hub link [here](https://nicolewallace09.github.io/food-festival/)<br>
-<img src='assets/img/screen.png'>
+Please view live Git Hub link [here](https://chlucas324.github.io/food-festival/)<br>
+
 
 ## License 
 This project is license under Unlicense
